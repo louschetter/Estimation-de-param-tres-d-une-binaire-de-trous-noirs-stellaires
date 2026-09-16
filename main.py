@@ -9,6 +9,9 @@ def algo(x0, sigma0, N):
     tab = [x0]
     for i in range(1, N+1):
         x = rd.normal(tab[-1], sigma0)
+        
+print(1, 2)
+
 
 
 
