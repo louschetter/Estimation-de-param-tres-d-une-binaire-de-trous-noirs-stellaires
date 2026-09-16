@@ -10,7 +10,8 @@ def algo(x0, sigma0, N):
     for i in range(1, N+1):
         x = rd.normal(tab[-1], sigma0)
         
-print(1, 2)
+    
+print(1, 2, 3, 4)
 
 
 
